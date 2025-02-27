@@ -7,3 +7,5 @@
 为了节省时间完成其他学习任务，同时达到练手效果，于是制作该脚本。
 
 开启该脚本进入网站课程页面即可。
+
+Github地址：https://github.com/Jenlybein/UOOC_Automatic-Watching-Lessons
